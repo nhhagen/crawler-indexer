@@ -26,6 +26,8 @@ var Indexer = require('../lib/crawler-indexer').Indexer;
 
 exports.crawlerIndexer = {
   setUp: function(done) {
+    var crawler = Crawler.create(null, null);
+    var indexer = Indexer.create(null, null);
     // setup here
     done();
   },
