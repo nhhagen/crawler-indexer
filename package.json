@@ -1,6 +1,6 @@
 {
   "name": "crawler-indexer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "lib/crawler-indexer.js",
   "description": "The best module ever.",
   "homepage": "https://github.com/nhhagen/crawler-indexer",
