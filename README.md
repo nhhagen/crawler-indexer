@@ -1,6 +1,11 @@
-# crawler-indexer [![Build Status](https://secure.travis-ci.org/nhhagen/crawler-indexer.png?branch=master)](http://travis-ci.org/nhhagen/crawler-indexer)
+# crawler-indexer
 
-The best module ever.
+Branch    | Status
+----------|-------
+`master`  | [![Build Status](https://secure.travis-ci.org/nhhagen/crawler-indexer.png?branch=master)](http://travis-ci.org/nhhagen/crawler-indexer)
+`develop` | [![Build Status](https://secure.travis-ci.org/nhhagen/crawler-indexer.png?branch=develop)](http://travis-ci.org/nhhagen/crawler-indexer)
+
+A crawling and indexing library to build crawlers and indexers with.
 
 ## Getting Started
 Install the module with: `npm install crawler-indexer`
