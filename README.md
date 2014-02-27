@@ -6,8 +6,13 @@ The best module ever.
 Install the module with: `npm install crawler-indexer`
 
 ```javascript
-var crawler-indexer = require('crawler-indexer');
-crawler-indexer.awesome(); // "awesome"
+var Crawler = require('crawler-indexer').Crawler;
+var Indexer = require('crawler-indexer').Indexer;
+
+var indexer = Indexer.create(options, overrides);
+indexer.start();
+var crawler = Crawler.create(options, overrides);
+crawler.start();
 ```
 
 ## Documentation
