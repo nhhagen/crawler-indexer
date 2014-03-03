@@ -1,4 +1,4 @@
-# crawler-indexer
+# crawler-indexer [![NPM version](https://badge.fury.io/js/crawler-indexer.png)](http://badge.fury.io/js/crawler-indexer)
 
 Branch    | Status
 ----------|-------
